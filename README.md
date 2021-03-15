@@ -17,3 +17,5 @@
 4 Run the application using below command
     mvn exec:java -Dexec.mainClass=com.dictionary.Main
 
+5. Enter "exit" to quit
+
